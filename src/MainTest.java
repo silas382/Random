@@ -6,6 +6,7 @@ public class MainTest {
         System.out.println("Just random code stuff");
         System.out.println("LOLLLL");
         System.out.println("adding 2nd print statement LOL");
+        System.out.println("LOL");
 
     }
 }
